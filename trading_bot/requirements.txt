@@ -1,0 +1,23 @@
+# Trading Bot Dependencies
+# Python 3.10+ required
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# CLI framework
+typer>=0.9.0
+rich>=13.7.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Optional: python-binance (alternative to direct REST)
+# python-binance>=1.0.19
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# pylint>=3.0.0
+# black>=23.0.0
+# mypy>=1.7.0
